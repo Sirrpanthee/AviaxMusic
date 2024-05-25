@@ -98,7 +98,7 @@ For a full list of commands, use `/help` in [telegram](https://t.me/AviaxBeatzBo
 Stay updated with the latest features and improvements to Aviax Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/AviaxSupport">
+  <a href="https://telegram.me/godxnexu">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
   <a href="https://telegram.me/AviaxOfficial">
